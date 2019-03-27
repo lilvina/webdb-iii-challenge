@@ -1,0 +1,8 @@
+{
+  "name": "webdb-iii-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lilvina/webdb-iii-challenge.git",
+  "author": "lilvina <davinaleo2007@yahoo.com>",
+  "license": "MIT"
+}
